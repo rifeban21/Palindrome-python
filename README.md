@@ -1,4 +1,4 @@
-# Project-test-Palindrome
+# Palindrome
 
 Program ini dikerjakan menggunakan bahasa pemrograman python
 
